@@ -2,6 +2,6 @@ My lab partner and I created a weather station using an AWS server IoT, an Amazo
 
 We achieved the followoing objectives in the experiment: 
 
-Learned how to set up and store data from a DHC-11 temperature sensor circuit to an AWS S3 bucket.
-Gained proficiency in using Node-RED on the Raspberry Pi 4 to send data from the temperature sensor to the ASW IoT server.
-Acquired the knowledge to setting up and configuring a Streamlit platform to display the DHT-11 temperature sensor data on a web page.
+- Learned how to set up and store data from a DHC-11 temperature sensor circuit to an AWS S3 bucket.
+- Gained proficiency in using Node-RED on the Raspberry Pi 4 to send data from the temperature sensor to the ASW IoT server.
+- Acquired the knowledge to setting up and configuring a Streamlit platform to display the DHT-11 temperature sensor data on a web page.
